@@ -50,3 +50,28 @@
     text-align: center;    
 }
 
+.acc{
+    color: var(--primary);
+}
+
+.underline{
+    width: 200px;
+    height: 1px;
+    background-color: gray;
+    margin: auto;
+    position: relative;
+}
+
+.blue{
+    width: 40%;
+    height: 3px;
+    background-color: var(--primary);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.boldd{
+    font-weight: 500;
+}
