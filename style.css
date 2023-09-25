@@ -75,3 +75,12 @@
 .boldd{
     font-weight: 500;
 }
+
+.headings{
+    color: var(--primary);
+    font-weight: 700;
+}
+
+.para-italic{
+    font-style: italic;
+}
