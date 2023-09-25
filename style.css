@@ -45,7 +45,7 @@
     scale: 1.1;
 }
 
-.aboutus{
+.aboutus,.servies{
     color: #37517E;
     text-align: center;    
 }
@@ -83,4 +83,26 @@
 
 .para-italic{
     font-style: italic;
+}
+
+.underlines{
+    width: 100px;
+    height: 3px;
+    background-color: lightgray;
+    margin: auto;
+    position: relative;
+}
+
+.blues{
+    width: 45%;
+    height: 5px;
+    background-color: #37517E;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.cardss{
+    justify-content: center;
 }
